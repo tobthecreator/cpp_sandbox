@@ -25,7 +25,7 @@ std::tuple<int, int> genProdSum(int a, int b, int c) {
 void printIntroduction() {
     std::cout << "\n\nHello weary traveller!\n";
     std::cout << "To cross this bridge you see in front of thee, you must answer my puzzles with numbers three!\n";
-    std::cout << "Giveth you they product and sum, return unto me the numbers that madeth them.\n";
+    std::cout << "I'll giveth you their product and sum; return unto me the numbers that madeth them.\n";
     std::cout << "Five challenges I present, but three tries for each I'll provide since you are so pleasant.\n";
     std::cout << "Enter your guess with a space between, if you'd be so kind.  Otherwise, they will be declined!\n";
 }
